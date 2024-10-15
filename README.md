@@ -1,5 +1,5 @@
 # About Myself
-Hi there! My name is Pedro, I'm currently studying Computer Science and building personal projects, which I share here. Feel free to check out my projects and let's connect!
+Hi there! My name is Pedro, I'm currently studying Computer Science and building personal projects, which I share here. Feel free to check out my content and let's connect!
 
 The main programming languages that I have experience as a developer include, but not limited to:
 - C# - Backend, mostly REST APIs with .NET environment
